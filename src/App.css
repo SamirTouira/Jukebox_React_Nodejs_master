@@ -42,10 +42,6 @@ html, body {
 
 /*-----End of error handler-----*/
 
-#flip {
-  height:50px;
-  overflow:hidden;
-}
 
 #flip > div > div {
   color:#fff;
