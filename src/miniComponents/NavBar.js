@@ -13,7 +13,7 @@ export default class NavBar extends React.Component{
     render(){
         return(
             <div>
-
+            {/* ----- Le code commenté juste en dessous permet de rendre totalement fonctionnelle la navbar Bootstrap en responsive. Commenté car conflits de styles. ----- */}     
         {/* <Helmet>
           <meta charSet="utf-8" />
           <title>Jukebox</title>

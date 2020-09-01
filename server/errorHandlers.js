@@ -45,7 +45,7 @@ exports.validateRegisterInput = (data) => {
     }
 
     if(Validator.isEmpty(data.pseudo)){
-        errors.pseudo = "<p style='color:red'>Vous devez choisir un pseudo !</p>";
+        errors.pseudo = "Vous devez choisir un pseudo !";
     }
 
     return{
